@@ -1,0 +1,42 @@
+Sept 27: Types of functions
+Sept 28: Git and Github
+Octomber 01: Object create
+Octomber 02: optional chaining operator
+Octomber 03: Permutations and combinations formulas
+Octomber 04: Password Length check
+Octomber 05: Nullish coalescing operator
+Octomber 06: slice() and splice()
+Octomber 07: push(), pop(), shift(), unshift()
+Octomber 08: concat(), join(), split(), toString()
+Octomber 09: slice(), substring(), substr()
+Octomber 10: isNaN
+Octomber 11: length
+Octomber 12: set, Array.from()
+Octomber 13: Javascript Object, Object.assign(), Object.keys(), Object.values()
+Octomber 14: Date functions
+Octomber 15: Array.isArray()
+Octomber 16: Math.round(), Math.ceil() and Math.floor()
+Octomber 17: Atlassian, Jira, Bitbucket, Confluence
+Octomber 18: Math.trunc(), Math.pow(), Math.sqrt(), Math.abs(), Math.max() and Math.min()
+Octomber 19: filter()
+Octomber 20: reduce()
+Octomber 21: Find()
+Octomber 22: findIndex() and includes()
+Octomber 23: some() and every()
+Octomber 24: sort()
+Octomber 25: replace() and replaceAll()
+Octomber 26: trim(), trimStart() and trimEnd()
+Octomber 27: == and ===
+Octomber 28: indexOf() and lastIndexOf()
+Octomber 29: charAt() and charCodeAt()
+Octomber 30: How to Print nested Object
+Octomber 31: padStart() and padEnd()
+November 06: startsWith() and endsWith()
+November 07: reverse() and flat()
+November 08: Array.map()
+November 09: Question
+November 10: Question
+November 11: Question
+November 12: Question
+November 13: CSV read
+November 14: How to break foreach loop

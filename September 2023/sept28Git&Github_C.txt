@@ -1,0 +1,41 @@
+Git & Github
+
+Step 1: Download git 
+Git download for window: https://git-scm.com/download/win
+Git download for mac: https://git-scm.com/download/mac
+Git download for ubuntu/linux: https://git-scm.com/download/linux
+
+Step 2: create new github account
+https://github.com/
+Create a new github account and login
+
+Step 3: Generate ssh key and put it into github account
+After git download first we need to generate ssh key in our pc
+for shh key generate you can use:  ssh-keygen -t rsa -C "your email address"
+for window user: then copy the public key from C:\Users\username\.ssh\id_rsa.pub file then paste on your github profile page
+for ubuntu user: then copy the public key from home\.ssh\id_ed25519.pub file then paste on your github profile page
+then copy the public key and paste it on github account settings > SSH keys
+
+Step 4: Set global username and email
+-----     git config --global user.email <email>
+-----     git config --global user.name <user name>
+----- to see git configration write -- git config --list
+
+step 5: create new repository in github
+create new repository with name as your project name, then clone that repository using command line or any other way
+create repository name as your project name, example: myprojectname
+make sure that this is private or else anyone who know about url of repository will be able to see all files inside that repository
+
+step 6: clone this repository from github using terminal or cmd
+create a new folder in pc 
+then create a file/files you want to upload in github
+then write below command
+  - git init
+  - git add git@github.com:"username of your github accout"/"Your repositiory name which you create in 5th step".git
+      ex. git add git@github.com:ChigsParmar007/Bloodbank_Frontend.git
+  - git add .
+  - git commit -m "commmit message what you want"
+  - git push origin master
+
+above command upload your folder in github account
+

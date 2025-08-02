@@ -1,0 +1,32 @@
+Atlassian
+  Jyare aapne team ma kam karta hoy tyare project ne manage karvanu kam sauthi important hoy che like
+  koi 2 devloper no code conflict na thai badha devlopers ne same structure ane code manage thai jay
+  sathe sathe badha devlopers ne task assign karvama easy rey aetla mate Atlassian no use thai che
+
+Atlassian ni ghani badhi products che aemathi mostly used product ni vat karu toh
+1. Jira software
+2. Bitbucket
+3. Confluence
+
+1. Jira software: 
+  Jira software ma aapne badha devlopers mate new new task banavi sakiae chhiae
+  and aek bija ne assign kari sakiae.
+  jira ma aapne sprint planning pn kari sakiae chhiae aema. sprint means ke aaone next thodak divso ma shu shu kam 
+  karshu kai rite karshu kon karse ae badhu manage kari sakiae chhiae mostly 1 sprint 15 divs ni hoy che
+  jira use karvathi ghana benefits rey che main to kam vechai jaay che tenathi devlopment ni process zadpi thai jay che
+
+2. Bitbucket
+  Bitbucket github ni jevu j che aema aapne code ne manage kari sakiae chhiae 
+  Bitbucket ma git na j commnad use thai che
+  jyare koi aek devloper koi PR banave toh pela ae seniors check kari sake and jo ae perface hoy to j ae code staging or production ma 
+  merge kare jenathi error aavana chances ochha thai jay che and jo PR ma koi problem hoy to aema commnnt karine kai sakiae ke ahiya change karvano che
+  Bitbucket jyare 2 devlopers alg alg jgya parthi kam karta hoy tyre satuhi best che
+  Bitbucket ma aapne pipeline pn set kari sakiae chhiae like aapne code merge kari didho pachhi ae code automatic built thavanu start thai jay.
+
+3. Confluence
+  Confluence ae documatation banava mate use thai che.
+  like project ma koi 1 devloper kam kare che and koi reason thi ae devloper vayo jay to aeni pachhi je devloper aave che aena mate
+  project nu understaing hard thai jay che to aa problem ne dur karva mate Confluence no use thai che
+  jyare pn koi devloper kai pn kam kare ae confluence na koi page ma lakhi dey and pacchi jayre pn jarur hoy tyare new devloper ae docs joine 
+  logic samji sake che
+  Here is my sample confluence page: https://chigsparmar07.atlassian.net/wiki/spaces/~712020867dd6698fa74126bc5d3a239a043fbc/pages/33247/Introduction
