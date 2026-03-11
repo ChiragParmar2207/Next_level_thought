@@ -9,14 +9,14 @@
 /*
   Write a JavaScript program that takes an array with mixed data type and calculate the sum of all numbers.
 */
-const arr = [2, '11', '9b', 3, 'a2', false, 5, 7, 1]
-let answer = 0
+const arr = [2, '11', '9b', 3, 'a2', false, 5, 7, 1];
+let answer = 0;
 for (i in arr) {
 	if (!isNaN(arr[i])) {
-		answer += Number(arr[i])
-	} else continue
+		answer += Number(arr[i]);
+	} else continue;
 }
-console.log(`The total is ${answer}`)
+console.log(`The total is ${answer}`);
 // Output: The total is 29
 
 /*

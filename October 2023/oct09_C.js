@@ -1,6 +1,6 @@
 // Javascript slice(), substring() and substr() functions
 
-const str = 'Hello World, I am Test Variable. I am using for experiment.'
+const str = 'Hello World, I am Test Variable. I am using for experiment.';
 
 /*
   slice()
@@ -16,12 +16,12 @@ const str = 'Hello World, I am Test Variable. I am using for experiment.'
 */
 
 // Example 1
-const newStr1 = str.slice(5, 15)
-console.log('str.split(5, 15)', newStr1) // Output: str.split(5, 15)  World, I
+const newStr1 = str.slice(5, 15);
+console.log('str.split(5, 15)', newStr1); // Output: str.split(5, 15)  World, I
 
 // Example 2
-const newStr2 = str.slice(8)
-console.log('str.slice(8)', newStr2) // Output: str.slice(8) rld, I am Test Variable. I am using for experiment.
+const newStr2 = str.slice(8);
+console.log('str.slice(8)', newStr2); // Output: str.slice(8) rld, I am Test Variable. I am using for experiment.
 
 /*
   substring()
@@ -31,12 +31,12 @@ console.log('str.slice(8)', newStr2) // Output: str.slice(8) rld, I am Test Vari
   and return a new string
 */
 // Example 1
-const newStr3 = str.substring(5, 15)
-console.log('str.substring(5, 15)', newStr3) // Output: str.split(5, 15)  World, I
+const newStr3 = str.substring(5, 15);
+console.log('str.substring(5, 15)', newStr3); // Output: str.split(5, 15)  World, I
 
 // Example 2
-const newStr4 = str.substring(8)
-console.log('str.substring(8)', newStr4) // Output: str.slice(8) rld, I am Test Variable. I am using for experiment.
+const newStr4 = str.substring(8);
+console.log('str.substring(8)', newStr4); // Output: str.slice(8) rld, I am Test Variable. I am using for experiment.
 
 /*
   substr()
@@ -46,8 +46,8 @@ console.log('str.substring(8)', newStr4) // Output: str.slice(8) rld, I am Test 
   substr() function ni first argument start index chre and biji argument string ni length che
   like start index(first argument) 5 che and biji argument 10 che toh ae string ma 5 ma index thi 10 ma index sudhini new string return karse
 */
-const newStr5 = str.substr(5, 15)
-console.log('str.substr(5, 15)', newStr5) // Iutput: str.substr(5, 10)  World, I am Te
+const newStr5 = str.substr(5, 15);
+console.log('str.substr(5, 15)', newStr5); // Iutput: str.substr(5, 10)  World, I am Te
 
 /*
   Note: 

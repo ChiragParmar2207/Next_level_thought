@@ -1,14 +1,14 @@
 // Javascript push, pop, shift, unshift function
 
-const arr = [10, 15, 20, 25, 30]
+const arr = [10, 15, 20, 25, 30];
 /*
   push()
   push function add new element at last position in array
   push function takes 1 argument which we want to add new element
-  push fucntion return index of the new added element where it placed
+  push function return index of the new added element where it placed
 */
-const pushele = arr.push(35)
-console.log(`New element added at the position ${pushele}. new array:`, arr)
+const pushEle = arr.push(35);
+console.log(`New element added at the position ${pushEle}. new array:`, arr);
 // Output:  New element added at the position 6. new array: [ 10, 15, 20, 25, 30, 35 ]
 
 /*
@@ -16,8 +16,8 @@ console.log(`New element added at the position ${pushele}. new array:`, arr)
   pop function remove last element in array
   pop function return deleted element it self
 */
-const popele = arr.pop()
-console.log(`${popele} deleted. new array:`, arr)
+const popEle = arr.pop();
+console.log(`${popEle} deleted. new array:`, arr);
 // Output: 35 deleted. new array: [ 10, 15, 20, 25, 30 ]
 
 /*
@@ -25,8 +25,8 @@ console.log(`${popele} deleted. new array:`, arr)
   unshift function add new element at the beginning of the array
   unshift function return new length of an array after new element added
 */
-const unshiftele = arr.unshift(5)
-console.log(`New length after unshift function ${unshiftele}. new array:`, arr)
+const unshiftEle = arr.unshift(5);
+console.log(`New length after unshift function ${unshiftEle}. new array:`, arr);
 // Output: New length after unshift function 6. new array: [ 5, 10, 15, 20, 25, 30 ]
 
 /*
@@ -34,6 +34,6 @@ console.log(`New length after unshift function ${unshiftele}. new array:`, arr)
   shift function remove first element of the array
   shift function return deleted element
 */
-const shiftele = arr.shift()
-console.log(`${shiftele} deleted. new array:`, arr)
+const shiftEle = arr.shift();
+console.log(`${shiftEle} deleted. new array:`, arr);
 // Output: 5 deleted. new array: [ 10, 15, 20, 25, 30 ]

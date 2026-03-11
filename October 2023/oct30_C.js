@@ -15,8 +15,8 @@ const myObject = {
 			},
 		},
 	},
-}
-console.log(myObject)
+};
+console.log(myObject);
 /*
   When we execute above log we can see output like this
   { a: 'a', b: { c: 'c', d: { e: 'e', f: [Object] } } }
@@ -26,16 +26,16 @@ console.log(myObject)
   here is the two solution we use for this 
 */
 // First
-console.log(myObject.b.d)
+console.log(myObject.b.d);
 /*
   { e: 'e', f: { g: 'g', h: { i: 'i' } } }
-  here you can see the outputl like this 
+  here you can see the output like this 
 
   but when we get thew object from ant api we don't know how object looks like right?
 */
 
 // Second
-console.dir(myObject, { depth: null })
+console.dir(myObject, { depth: null });
 /*
   {
     a: 'a',

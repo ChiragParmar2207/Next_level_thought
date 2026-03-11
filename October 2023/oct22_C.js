@@ -7,9 +7,9 @@
   findIndex() function array no index find karava mate use thai che 
 */
 // Ex. assume that we have an array and we want to find index of where 'apple' is placed
-const strArr = ['banana', 'strawberry', 'apple', 'pineapple', 'cherry']
-const index = strArr.findIndex((element) => element === 'apple')
-console.log('Index of apple id', index) // Index of apple is 2
+const strArr = ['banana', 'strawberry', 'apple', 'pineapple', 'cherry'];
+const index = strArr.findIndex((element) => element === 'apple');
+console.log('Index of apple id', index); // Index of apple is 2
 
 // Ex.
 const accounts = [
@@ -37,19 +37,19 @@ const accounts = [
 		interestRate: 1,
 		pin: 4444,
 	},
-]
+];
 const index1 = accounts.findIndex(
 	(element) => element.owner === 'Jessica Davis'
-)
-console.log('Jessica Davis`s account is on index', index) // Jessica Davis`s account is on index 2
+);
+console.log('Jessica Davis`s account is on index', index); // Jessica Davis`s account is on index 2
 
 /*
   includes()
   includes() function return true if a given value is includes in array else it return false
 */
 // Ex. in above strArr we want ti find apple is includes in an array or not
-const includes = strArr.includes('apple')
-console.log('apple is includes in array', includes) // apple is includes in array true
+const includes = strArr.includes('apple');
+console.log('apple is includes in array', includes); // apple is includes in array true
 
 // Ex. in accounts array we want to find Jessica Davis account is includes or not
 /*
@@ -58,17 +58,17 @@ console.log('apple is includes in array', includes) // apple is includes in arra
   second is first we extract an array of all the owners names in seprate array and then use includes() function
   let's see how
 */
-const ownerNameArr = accounts.map((element) => element.owner)
-console.log('Account orners name array', ownerNameArr)
+const ownerNameArr = accounts.map((element) => element.owner);
+console.log('Account owners name array', ownerNameArr);
 /*
   Output: 
-  Account orners name array [
+  Account owners name array [
     'Jonas Schmedtmann',
     'Jessica Davis',
     'Steven Thomas Williams',
     'Sarah Smith'
   ]
 */
-const includes1 = ownerNameArr.includes('Jessica Davis')
-console.log('Jessica Davis`s account is includes', includes1) // Jessica Davis`s account is on index 2
+const includes1 = ownerNameArr.includes('Jessica Davis');
+console.log('Jessica Davis`s account is includes', includes1); // Jessica Davis`s account is on index 2
 // Jessica Davis`s account is includes true

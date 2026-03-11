@@ -2,13 +2,13 @@
   How to break Array.foreach() loop
 
   Here we all know that we can't break foreach loop
-  when we write break statement in foreach loop it will throw an SyntaxErro error
+  when we write break statement in foreach loop it will throw an SyntaxError error
   and if we write return statement it will not stop loop and continue loop
 
   I have 3 ways to stop foreach loop
 */
 
-const arr = [1, 2, 3, 4]
+const arr = [1, 2, 3, 4];
 
 // First way is throwing en exception
 // arr.forEach((item) => {
@@ -39,10 +39,10 @@ const arr = [1, 2, 3, 4]
 // Third way is a use splice function
 arr.forEach((item, index) => {
 	if (item === 2) {
-		arr.splice(index + 1, arr.length)
+		arr.splice(index + 1, arr.length);
 	}
-	console.log('item =', item)
-})
+	console.log('item =', item);
+});
 /*
   Output:
   item = 1

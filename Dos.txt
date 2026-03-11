@@ -1,42 +1,44 @@
-Sept 27: Types of functions
-Sept 28: Git and Github
-Octomber 01: Object create
-Octomber 02: optional chaining operator
-Octomber 03: Permutations and combinations formulas
-Octomber 04: Password Length check
-Octomber 05: Nullish coalescing operator
-Octomber 06: slice() and splice()
-Octomber 07: push(), pop(), shift(), unshift()
-Octomber 08: concat(), join(), split(), toString()
-Octomber 09: slice(), substring(), substr()
-Octomber 10: isNaN
-Octomber 11: length
-Octomber 12: set, Array.from()
-Octomber 13: Javascript Object, Object.assign(), Object.keys(), Object.values()
-Octomber 14: Date functions
-Octomber 15: Array.isArray()
-Octomber 16: Math.round(), Math.ceil() and Math.floor()
-Octomber 17: Atlassian, Jira, Bitbucket, Confluence
-Octomber 18: Math.trunc(), Math.pow(), Math.sqrt(), Math.abs(), Math.max() and Math.min()
-Octomber 19: filter()
-Octomber 20: reduce()
-Octomber 21: Find()
-Octomber 22: findIndex() and includes()
-Octomber 23: some() and every()
-Octomber 24: sort()
-Octomber 25: replace() and replaceAll()
-Octomber 26: trim(), trimStart() and trimEnd()
-Octomber 27: == and ===
-Octomber 28: indexOf() and lastIndexOf()
-Octomber 29: charAt() and charCodeAt()
-Octomber 30: How to Print nested Object
-Octomber 31: padStart() and padEnd()
-November 06: startsWith() and endsWith()
-November 07: reverse() and flat()
-November 08: Array.map()
-November 09: Question
-November 10: Question
-November 11: Question
-November 12: Question
-November 13: CSV read
-November 14: How to break foreach loop
+2023 Sept 27: Types of functions
+2023 Sept 28: Git and Github
+2023 Oct 01: Object create
+2023 Oct 02: optional chaining operator
+2023 Oct 03: Permutations and combinations formulas
+2023 Oct 04: Password Length check
+2023 Oct 05: Nullish coalescing operator
+2023 Oct 06: slice() and splice()
+2023 Oct 07: push(), pop(), shift(), unshift()
+2023 Oct 08: concat(), join(), split(), toString()
+2023 Oct 09: slice(), substring(), substr()
+2023 Oct 10: isNaN
+2023 Oct 11: length
+2023 Oct 12: set, Array.from()
+2023 Oct 13: Javascript Object, Object.assign(), Object.keys(), Object.values()
+2023 Oct 14: Date functions
+2023 Oct 15: Array.isArray()
+2023 Oct 16: Math.round(), Math.ceil() and Math.floor()
+2023 Oct 17: Atlassian, Jira, Bitbucket, Confluence
+2023 Oct 18: Math.trunc(), Math.pow(), Math.sqrt(), Math.abs(), Math.max() and Math.min()
+2023 Oct 19: filter()
+2023 Oct 20: reduce()
+2023 Oct 21: find()
+2023 Oct 22: findIndex() and includes()
+2023 Oct 23: some() and every()
+2023 Oct 24: sort()
+2023 Oct 25: replace() and replaceAll()
+2023 Oct 26: trim(), trimStart() and trimEnd()
+2023 Oct 27: == and ===
+2023 Oct 28: indexOf() and lastIndexOf()
+2023 Oct 29: charAt() and charCodeAt()
+2023 Oct 30: How to Print nested Object
+2023 Oct 31: padStart() and padEnd()
+2023 Nov 06: startsWith() and endsWith()
+2023 Nov 07: reverse() and flat()
+2023 Nov 08: Array.map()
+2023 Nov 09: Question
+2023 Nov 10: Question
+2023 Nov 11: Question
+2023 Nov 12: Question
+2023 Nov 13: CSV read
+2023 Nov 14: How to break foreach loop
+2026 Mar 10: nvm uses
+2026 Mar 11: Object.freeze() and Object.seal()

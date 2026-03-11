@@ -1,12 +1,12 @@
 /*
   Javascript find() function
-  find() function array mathi koi aek perticular value find karva and ae value par kaik operation karva pate thai che
+  find() function array mathi koi aek particular value find karva and ae value par kaik operation karva pate thai che
   find() function find a value in an array and return first value which is true for a given condition.
   Returns the value of the first element in an array that pass a test. If no match is found, it returns undefined
 */
-const arr = [55, 2, 6, 9, 7, 42, 56, 51, 21, 65, 32]
-const find1 = arr.find((element) => element % 5 === 0)
-console.log('Find a first value that is divisible by 5:', find1) // Find a first value that is divisible by 5: 55
+const arr = [55, 2, 6, 9, 7, 42, 56, 51, 21, 65, 32];
+const find1 = arr.find((element) => element % 5 === 0);
+console.log('Find a first value that is divisible by 5:', find1); // Find a first value that is divisible by 5: 55
 
 // Ex. we have an array of bank account holders we want to find Jessica Davis account details
 const accounts = [
@@ -34,13 +34,13 @@ const accounts = [
 		interestRate: 1,
 		pin: 4444,
 	},
-]
+];
 const findAccount = accounts.find(
 	(element) => element.owner === 'Jessica Davis'
-)
-console.log('Jessica Davis acccount details', findAccount)
+);
+console.log('Jessica Davis account details', findAccount);
 /*
-  Jessica Davis acccount details 
+  Jessica Davis account details 
   {
     owner: 'Jessica Davis',
     movements: [

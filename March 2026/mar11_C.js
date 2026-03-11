@@ -4,7 +4,12 @@
  */
 
 /**
- *
+ * | Feature           | Object.freeze()| Object.seal() |
+ * --------------------|----------------|-------------- |
+ * | Add properties    | No             | No            |
+ * | Delete properties | No             | No            |
+ * | Modify properties | No             | Yes           |
+ * | Immutable         | Yes Fully      | No Partially  |
  */
 
 /**

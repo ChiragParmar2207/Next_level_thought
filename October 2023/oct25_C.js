@@ -8,10 +8,10 @@
   Takes two argument first is which character(s) you want to change, and
   second is new character(s) you want to replace.
 */
-const str = 'Hello World, I am Test Variable. I am using for experiment.'
+const str = 'Hello World, I am Test Variable. I am using for experiment.';
 
-const replacestr = str.replace('l', 'L')
-console.log("str.replace('l', 'L'); : ", replacestr) //  HeLlo World, I am Test Variable. I am using for experiment.
+const replaceStr = str.replace('l', 'L');
+console.log("str.replace('l', 'L'); : ", replaceStr); //  HeLlo World, I am Test Variable. I am using for experiment.
 // Here you can see the output first L in Hello is changes to L and new word is HeLlo
 
 /*
@@ -20,6 +20,6 @@ console.log("str.replace('l', 'L'); : ", replacestr) //  HeLlo World, I am Test 
   Takes two argument first is which character(s) you want to change, and
   second is new character(s) you want to replace.
 */
-const replaceallstr = str.replaceAll('l', 'L')
-console.log("str.replaceAll('l', 'L') : ", replaceallstr) // str.replaceAll('l', 'L') :  HeLLo WorLd, I am Test VariabLe. I am using for experiment.
+const replaceAllStr = str.replaceAll('l', 'L');
+console.log("str.replaceAll('l', 'L') : ", replaceAllStr); // str.replaceAll('l', 'L') :  HeLLo WorLd, I am Test VariabLe. I am using for experiment.
 // Here you can see all the small 'l' changed with the capital 'L'

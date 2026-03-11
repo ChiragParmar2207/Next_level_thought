@@ -1,0 +1,42 @@
+nvm (Node Version Manager)
+https://github.com/nvm-sh/nvm
+
+How to check current node version?
+node -v
+or
+node --version
+
+How to check nvm version?
+nvm -v
+or
+nvm --version
+
+How to check installed node versions in you system?
+nvm ls
+or
+nvm list
+
+How to check all the available node version?
+nvm ls-remote
+
+How to install particular node version?
+nvm i <version>
+Example: nvm i 24.14.0
+
+How to install latest node version?
+nvm i node (This command will install latest node version and also update default node version to latest)
+
+How to change default node version?
+nvm alias default <version>
+Example: nvm alias default 24.14.0
+
+How to change node version for particular project only?
+nvm use <version>
+Example: nvm use 24.14.0
+
+How to uninstall particular node version?
+nvm uninstall <version>
+Example: nvm uninstall 24.14.0
+
+How to check npm(Node Package Manager) version?
+npm -v

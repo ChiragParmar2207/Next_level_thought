@@ -38,4 +38,3 @@ then write below command
   - git push origin master
 
 above command upload your folder in github account
-
