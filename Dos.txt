@@ -42,3 +42,4 @@
 2023 Nov 14: How to break foreach loop
 2026 Mar 10: nvm uses
 2026 Mar 11: Object.freeze() and Object.seal()
+2026 Mar 12: Javascript console
