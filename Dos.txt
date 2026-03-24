@@ -1,16 +1,16 @@
 2023 Sept 27: Types of functions
 2023 Sept 28: Git and Github
 2023 Oct 01: Object create
-2023 Oct 02: optional chaining operator
+2023 Oct 02: optional chaining operator (`?.`)
 2023 Oct 03: Permutations and combinations formulas
 2023 Oct 04: Password Length check
-2023 Oct 05: Nullish coalescing operator
+2023 Oct 05: Nullish Coalescing Operator (`??`)
 2023 Oct 06: slice() and splice()
 2023 Oct 07: push(), pop(), shift(), unshift()
 2023 Oct 08: concat(), join(), split(), toString()
 2023 Oct 09: slice(), substring(), substr()
 2023 Oct 10: isNaN
-2023 Oct 11: length
+2023 Oct 11: length Property
 2023 Oct 12: set, Array.from()
 2023 Oct 13: Javascript Object, Object.assign(), Object.keys(), Object.values()
 2023 Oct 14: Date functions
@@ -44,3 +44,4 @@
 2026 Mar 11: Object.freeze() and Object.seal()
 2026 Mar 12: Javascript console
 2026 Mar 22: Javascript Error types
+2026 Mar 24: Graceful Shutdown

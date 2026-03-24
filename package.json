@@ -1,0 +1,21 @@
+{
+	"name": "next_level_thought",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/ChiragParmar2207/Next_level_thought#readme",
+	"bugs": {
+		"url": "https://github.com/ChiragParmar2207/Next_level_thought/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ChiragParmar2207/Next_level_thought.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"express": "^5.2.1"
+	}
+}
