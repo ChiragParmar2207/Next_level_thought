@@ -1,27 +1,21 @@
 # 🚀 Next Level Thought
 
-A personal JavaScript learning journal — documenting daily concepts, code snippets, and practice problems from fundamentals to advanced topics.
+A personal JavaScript learning journal - documenting daily concepts, code snippets, and practice problems from fundamentals to advanced topics.
 
 ## 📖 About
 
 This repository is a structured, day-by-day log of JavaScript concepts explored and practiced over time. Each file contains explanations, examples, and hands-on code for a specific topic, making it a handy reference for revisiting concepts.
 
-## 🛠️ Tech Stack
-
-- **Language:** JavaScript (Node.js)
-- **Runtime:** Node.js (managed via [nvm](https://github.com/nvm-sh/nvm))
-- **Framework:** Express.js v5
-- **Tools:** Git, GitHub, Jira, Bitbucket, Confluence
-
 ## 📁 Project Structure
 
 ```
 Next_level_thought/
-├── September 2023/      # Functions, Git & GitHub
-├── October 2023/        # Core JS methods, operators, and array/string/object utilities
-├── November 2023/       # Advanced array methods, CSV, and practice questions
-├── March 2026/          # nvm, Object.freeze/seal, console, error types, graceful shutdown
-├── Dos.txt              # Daily topic log with dates
+├── March 2026/
+├── November 2023/
+├── October 2023/
+├── September 2023/
+├── .gitignore
+├── Dos.txt
 ├── package.json
 └── README.md
 ```
@@ -122,7 +116,3 @@ npm install
 # Run any topic file
 node "October 2023/oct06_C.js"
 ```
-
-## 📜 License
-
-ISC
