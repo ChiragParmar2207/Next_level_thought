@@ -1,12 +1,12 @@
-# 🚀 Next Level Thought
+# Next Level Thought
 
 A personal JavaScript learning journal - documenting daily concepts, code snippets, and practice problems from fundamentals to advanced topics.
 
-## 📖 About
+## About
 
 This repository is a structured, day-by-day log of JavaScript concepts explored and practiced over time. Each file contains explanations, examples, and hands-on code for a specific topic, making it a handy reference for revisiting concepts.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Next_level_thought/
@@ -20,7 +20,7 @@ Next_level_thought/
 └── README.md
 ```
 
-## 📅 Topics Covered
+## Topics Covered
 
 ### September 2023
 
@@ -88,8 +88,9 @@ Next_level_thought/
 | Mar 12 | JavaScript Console Methods            |
 | Mar 22 | JavaScript Error Types                |
 | Mar 24 | Graceful Shutdown                     |
+| Mar 25 | Types and Interfaces in Typescript    |
 
-## 🏷️ Key Concepts at a Glance
+## Key Concepts at a Glance
 
 - **Fundamentals** — Data types, operators (`?.`, `??`, `==` vs `===`), type checking (`isNaN`, `Array.isArray`)
 - **Strings** — `slice`, `substring`, `replace`, `trim`, `padStart/End`, `charAt`, `startsWith/endsWith`
@@ -100,8 +101,9 @@ Next_level_thought/
 - **Node.js** — Express.js v5, nvm, CSV reading, graceful shutdown
 - **Error Handling** — JavaScript error types
 - **Tooling** — Git, GitHub, Jira, Bitbucket, Confluence
+- **Typescript** — Types and Interfaces
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository

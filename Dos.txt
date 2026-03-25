@@ -45,3 +45,4 @@
 2026 Mar 12: Javascript console
 2026 Mar 22: Javascript Error types
 2026 Mar 24: Graceful Shutdown
+2026 Mar 25: Types and Interfaces in Typescript
