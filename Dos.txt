@@ -43,6 +43,8 @@
 2026 Mar 10: nvm uses
 2026 Mar 11: Object.freeze() and Object.seal()
 2026 Mar 12: Javascript console
+2026 Mar 12: Javascript quirks (array + operator, comma operator)
 2026 Mar 22: Javascript Error types
 2026 Mar 24: Graceful Shutdown
 2026 Mar 25: Types and Interfaces in Typescript
+2026 Mar 26: Currying in Javascript

@@ -81,21 +81,24 @@ Next_level_thought/
 
 ### March 2026
 
-| Date   | Topic                                 |
-| ------ | ------------------------------------- |
-| Mar 10 | nvm Usage                             |
-| Mar 11 | `Object.freeze()` and `Object.seal()` |
-| Mar 12 | JavaScript Console Methods            |
-| Mar 22 | JavaScript Error Types                |
-| Mar 24 | Graceful Shutdown                     |
-| Mar 25 | Types and Interfaces in Typescript    |
+| Date   | Topic                                                  |
+| ------ | ------------------------------------------------------ |
+| Mar 10 | nvm Usage                                              |
+| Mar 11 | `Object.freeze()` and `Object.seal()`                  |
+| Mar 12 | JavaScript Console Methods                             |
+| Mar 12 | JavaScript Quirks (array `+` operator, comma operator) |
+| Mar 22 | JavaScript Error Types                                 |
+| Mar 24 | Graceful Shutdown                                      |
+| Mar 25 | Types and Interfaces in Typescript                     |
+| Mar 26 | Currying in Javascript                                 |
 
 ## Key Concepts at a Glance
 
-- **Fundamentals** — Data types, operators (`?.`, `??`, `==` vs `===`), type checking (`isNaN`, `Array.isArray`)
+- **Fundamentals** — Data types, operators (`?.`, `??`, `==` vs `===`), type checking (`isNaN`, `Array.isArray`), JS quirks
 - **Strings** — `slice`, `substring`, `replace`, `trim`, `padStart/End`, `charAt`, `startsWith/endsWith`
 - **Arrays** — `map`, `filter`, `reduce`, `find`, `sort`, `some/every`, `flat`, `reverse`, `splice`
 - **Objects** — `Object.create`, `Object.assign`, `Object.keys/values`, `Object.freeze/seal`, nested objects
+- **Functions** — Currying, partial application, generic curry helper
 - **Math** — `round`, `ceil`, `floor`, `trunc`, `pow`, `sqrt`, `abs`, `max`, `min`
 - **Dates** — JavaScript Date functions
 - **Node.js** — Express.js v5, nvm, CSV reading, graceful shutdown
