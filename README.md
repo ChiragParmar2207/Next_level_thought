@@ -91,6 +91,7 @@ Next_level_thought/
 | Mar 24 | Graceful Shutdown                                      |
 | Mar 25 | Types and Interfaces in Typescript                     |
 | Mar 26 | Currying in Javascript                                 |
+| Mar 27 | Closures in Javascript                                 |
 
 ## Key Concepts at a Glance
 
@@ -98,7 +99,7 @@ Next_level_thought/
 - **Strings** — `slice`, `substring`, `replace`, `trim`, `padStart/End`, `charAt`, `startsWith/endsWith`
 - **Arrays** — `map`, `filter`, `reduce`, `find`, `sort`, `some/every`, `flat`, `reverse`, `splice`
 - **Objects** — `Object.create`, `Object.assign`, `Object.keys/values`, `Object.freeze/seal`, nested objects
-- **Functions** — Currying, partial application, generic curry helper
+- **Functions** — Closures, currying, partial application, generic curry helper
 - **Math** — `round`, `ceil`, `floor`, `trunc`, `pow`, `sqrt`, `abs`, `max`, `min`
 - **Dates** — JavaScript Date functions
 - **Node.js** — Express.js v5, nvm, CSV reading, graceful shutdown
