@@ -69,7 +69,7 @@ console.table(users, ['name', 'role']);
   │ 2       │ 'Carol' │ 'Viewer' │
   └─────────┴─────────┴──────────┘
  */
-console.log('========== Table example start ==========');
+console.log('========== Table example end ==========');
 
 // 7. console.time() and console.timeEnd() and console.timeLog()
 console.time('fetchData');

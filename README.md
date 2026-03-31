@@ -92,13 +92,14 @@ Next_level_thought/
 | Mar 25 | Types and Interfaces in Typescript                     |
 | Mar 26 | Currying in Javascript                                 |
 | Mar 27 | Closures in Javascript                                 |
+| Mar 31 | Shallow Copy vs Deep Copy in Javascript                |
 
 ## Key Concepts at a Glance
 
 - **Fundamentals** — Data types, operators (`?.`, `??`, `==` vs `===`), type checking (`isNaN`, `Array.isArray`), JS quirks
 - **Strings** — `slice`, `substring`, `replace`, `trim`, `padStart/End`, `charAt`, `startsWith/endsWith`
 - **Arrays** — `map`, `filter`, `reduce`, `find`, `sort`, `some/every`, `flat`, `reverse`, `splice`
-- **Objects** — `Object.create`, `Object.assign`, `Object.keys/values`, `Object.freeze/seal`, nested objects
+- **Objects** — `Object.create`, `Object.assign`, `Object.keys/values`, `Object.freeze/seal`, nested objects, shallow copy vs deep copy
 - **Functions** — Closures, currying, partial application, generic curry helper
 - **Math** — `round`, `ceil`, `floor`, `trunc`, `pow`, `sqrt`, `abs`, `max`, `min`
 - **Dates** — JavaScript Date functions

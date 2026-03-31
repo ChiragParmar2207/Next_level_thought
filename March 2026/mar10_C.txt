@@ -11,7 +11,7 @@ nvm -v
 or
 nvm --version
 
-How to check installed node versions in you system?
+How to check installed node versions in your system?
 nvm ls
 or
 nvm list

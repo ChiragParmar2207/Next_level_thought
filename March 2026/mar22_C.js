@@ -100,15 +100,17 @@ const p1 = Promise.reject(new Error('Server A failed'));
 const p2 = Promise.reject(new Error('Server B failed'));
 const p3 = Promise.reject(new Error('Server C failed'));
 
-try {
-	await Promise.any([p1, p2, p3]);
-} catch (err) {
-	console.log(err instanceof AggregateError); // true
-	console.log(err.message); // "All promises were rejected"
-	console.log(err.errors);
-	// [
-	//   Error: "Server A failed",
-	//   Error: "Server B failed",
-	//   Error: "Server C failed"
-	// ]
-}
+(async () => {
+	try {
+		await Promise.any([p1, p2, p3]);
+	} catch (err) {
+		console.log(err instanceof AggregateError); // true
+		console.log(err.message); // "All promises were rejected"
+		console.log(err.errors);
+		// [
+		//   Error: "Server A failed",
+		//   Error: "Server B failed",
+		//   Error: "Server C failed"
+		// ]
+	}
+})();

@@ -11,7 +11,7 @@
 		"url": "git+https://github.com/ChiragParmar2207/Next_level_thought.git"
 	},
 	"license": "ISC",
-	"author": "",
+	"author": "Chirag Parmar",
 	"type": "commonjs",
 	"main": "index.js",
 	"scripts": {},

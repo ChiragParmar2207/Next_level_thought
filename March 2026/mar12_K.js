@@ -1,5 +1,5 @@
 let a = [1, 2, 3];
-let b = a;
+const b = a;
 a = a + [4];
 console.log('a====================', a);
 
@@ -12,7 +12,7 @@ Because the + operator with arrays converts them to strings first.
 
 ====================================================================================*/
 
-let x = (1, 2, 3);
+const x = (1, 2, 3);
 console.log(x);
 
 /**output:- 3

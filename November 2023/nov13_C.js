@@ -22,14 +22,14 @@ const headers = arr[0].split(',');
 
 // Here i remove first element from array because we don't need header in data
 arr.shift();
-let result = [];
+const result = [];
 
 for (let i = 0; i < arr.length; i++) {
-	let obj = {};
+	const obj = {};
 	// Here i split data with the ',' because all the data separated with the ','
 	const currentLine = arr[i].split(',');
-	headers.forEach((h, i) => {
-		obj[h] = currentLine[i];
+	headers.forEach((h, j) => {
+		obj[h] = currentLine[j];
 	});
 	result.push(obj);
 }

@@ -49,3 +49,4 @@
 2026 Mar 25: Types and Interfaces in Typescript
 2026 Mar 26: Currying in Javascript
 2026 Mar 27: Closures in Javascript
+2026 Mar 31: Shallow Copy vs Deep Copy in Javascript
